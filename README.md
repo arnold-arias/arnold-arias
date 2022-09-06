@@ -32,7 +32,7 @@ Curious and self-taught 👀 by nature, I'm interested in the backend and everyt
 
 <div align="left">
    <a href="https://www.linkedin.com/in/arnoldvasquez"><img alt="Linkedin personal link" title="Contact me on" src="https://img.shields.io/badge/-LinkedIn-183873?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/garuDeveloper"><img alt="Telegram personal link" title="Contact me on" src="https://img.shields.io/badge/-Telegram-141e30?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/arnoldev"><img alt="Telegram personal link" title="Contact me on" src="https://img.shields.io/badge/-Telegram-141e30?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="mailto:contacta@tuta.io"><img alt="Email personal link" title="Contact me on" src="https://img.shields.io/badge/-Email-5e1106?style=for-the-badge&logo=tutanota&logoColor=white"/></a>
 </div>
 
