@@ -23,8 +23,6 @@
             alt="Bootstrap" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"
             alt="MySQL" width="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash"
-            width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"
             alt="Linux" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java"
@@ -46,8 +44,8 @@
             src="https://img.shields.io/badge/-LinkedIn-183873?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://t.me/arnoldev"><img alt="Telegram personal link" title="Contact me on"
             src="https://img.shields.io/badge/-Telegram-141e30?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="mailto:contacta@tuta.io"><img alt="Email personal link" title="Contact me on"
-            src="https://img.shields.io/badge/-Email-5e1106?style=for-the-badge&logo=tutanota&logoColor=white" /></a>
+    <a href="mailto:arnoldev@disroot.org"><img alt="Email personal link" title="Contact me on"
+            src="https://img.shields.io/badge/-Email-5e1106?style=for-the-badge&logo=disroot&logoColor=white" /></a>
 </div>
 
 <!--
