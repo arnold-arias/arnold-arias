@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋 I'm Arnold Vásquez</h1>
+    <h1 align="center">Hi 👋 I'm Arnold Vásquez Arias</h1>
     <h3 align="center">A passionate fullstack web developer from Chile.
         Curious and self-taught 👀 by nature, I'm interested in the backend and everything between { }
     </h3>
