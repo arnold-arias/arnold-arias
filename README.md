@@ -13,10 +13,8 @@
             alt="HTML" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3"
             alt="CSS" width="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git"
-            width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
-            title="Wordpress" alt="Wordpress" width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"
+        alt="Git" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
             title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"
@@ -31,13 +29,16 @@
             alt="Spring" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"
             alt="JQuery" width="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="             40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"
+            alt="Bash" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"
+            alt="Docker" width="40" height="40" />&nbsp;
     </div>
 </div>
 
 * * *
 
-+ 🌱 I'm currently learning **React, Sass, Spring Security**
++ 🌱 I'm currently learning **Docker, Sass, Spring Security**
 + 💬 Do you have any question? contact me and I will be happy to help you
 
 <div align="left">
