@@ -46,7 +46,7 @@
             src="https://img.shields.io/badge/-LinkedIn-183873?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://t.me/arnoldev"><img alt="Telegram personal link" title="Contact me on"
             src="https://img.shields.io/badge/-Telegram-141e30?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="mailto:arnoldev@disroot.org"><img alt="Email personal link" title="Contact me on"
+    <a href="mailto:contacto@disroot.org"><img alt="Email personal link" title="Contact me on"
             src="https://img.shields.io/badge/-Email-5e1106?style=for-the-badge&logo=disroot&logoColor=white" /></a>
 </div>
 
